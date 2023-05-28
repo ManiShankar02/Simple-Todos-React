@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+  min-height: 100vh;
+}
+
+.subContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 18px;
+  width: 90%;
+  padding: 24px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 18px;
+}
+
+.unOrderdList {
+  padding-left: 1px;
+}
